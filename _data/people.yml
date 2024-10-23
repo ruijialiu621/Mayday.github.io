@@ -26,20 +26,30 @@ wolverine:
 
 
     
-bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
+Monster:
+    display_name: "怪兽 Monster"
     role: grad
-    image: /img/people/bizhu.jpg
+    image: /img/people/Monster.jpg
 
-kedeng:
-    display_name: "吴克登 Kedeng Wu"
+Ashin:
+    display_name: "阿信 Ashin"
     role: grad
-    image: /img/people/kedeng.jpg
+    image: /img/people/Ashin.jpg
 
-storm:
-    display_name: "虚位以待  We need you!"
+Stone:
+    display_name: "石头 Stone"
     role: grad
-    image: /img/people/need.png
+    image: /img/people/Stone.jpg
+
+Masa:
+    display_name: "玛莎 Masa"
+    role: grad
+    image: /img/people/Masa.jpg
+    
+MING:
+    display_name: "冠佑 MING"
+    role: grad
+    image: /img/people/MING.jpg
 
 
 
@@ -50,36 +60,36 @@ alum-a:
 
 
 chenxi:
-    display_name: "陈曦 [导师] Xi Chen [Advisor] "
+    display_name: "梁静茹 Fish Leong "
     role: collab
 
 
 xiaoyang:
-    display_name: "时笑阳 Xiaoyang Shi"
+    display_name: "伍佰 Wu Bai"
     role: collab
 
 xiangbiao:
-    display_name: "廖湘标 Xiangbiao Liao"
+    display_name: "陈绮贞 Cheer"
     role: collab
     
 liangliang:
-    display_name: "朱亮亮 Liangliang Zhu"
+    display_name: "周杰伦 Jay Chou"
     role: collab
 
 chenyan:
-    display_name: "陈炎 Yan Chen"
+    display_name: "刘若英 Ren'e Liu"
     role: collab
     
 juzheng:
-    display_name: "宋居正 Juzheng Song"
+    display_name: "家家 Jia Jia"
     role: collab
 
 yayun:
-    display_name: "张亚运 Yayun Zhang"
+    display_name: "丁当 Della"
     role: collab
 
 dianxing:
-    display_name: "居佃兴 Dianxing Ju"
+    display_name: "告五人 Accusefive"
     role: collab
     
 
