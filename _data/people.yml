@@ -1,26 +1,13 @@
 
 
-profx:
----
-layout: default
-title: Research Projects
----
 
-<div class="card-columns">
-    {% comment %}
-    Sort the projects by date, putting those without dates last
-    {% endcomment %}
-    {% assign projects_by_date = site.projects | sort: 'last-updated' | reverse %}
-    {% for p in projects_by_date %}
-        <div class="project-card">
-            <img src="https://github.com/ruijialiu621/Mayday.github.io/blob/master/img/people/mayday.png" alt="五月天 Mayday">
-            <h3>{{ p.display_name }}</h3>
-            <p>{{ p.bio }}</p>
-            <a href="{{ p.webpage }}">More Info</a>
-        </div>
-        {% include project-card.html project=p %}
-    {% endfor %}
-</div>
+profx:
+    display_name: "五月天  Mayday"
+    github: xiaohang007
+    role: faculty
+    image: /img/people/mayday.png
+    bio: 中国台湾流行摇滚乐团  Taiwan Pop Rock Band
+    webpage: "https://baike.baidu.com/link?url=xKw9m5yJO2LuhUKcbkArqEC6_rtl1siZIrQ-vx4Yof8fZl4hur2QU2GT5QwOMl5GeWFk-s-q7R5yNbCYm98vx3OMrn4JbzEL_v9V0nMDOAa#3-1"
 
 scott:
     display_name: "Scott Summers"
