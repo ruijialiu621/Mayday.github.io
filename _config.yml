@@ -16,7 +16,7 @@ roles:
   - key: grad
     name: 团队成员 Team Members
   - key: ugrad
-    name: 合作伙伴 Cooperation Partners
+    name: 经纪公司 Brokerage Company
   - key: collab
     name: 圈内好友 Inner Circle Friends
 
