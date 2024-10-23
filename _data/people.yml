@@ -14,7 +14,7 @@ title: Research Projects
     {% assign projects_by_date = site.projects | sort: 'last-updated' | reverse %}
     {% for p in projects_by_date %}
         <div class="project-card">
-            <img src="https://github.com/ruijialiu621/Mayday.github.io/edit/master/img/people/mayday03.png" alt="五月天 Mayday">
+            <img src="https://github.com/ruijialiu621/Mayday.github.io/blob/master/img/people/mayday.png" alt="五月天 Mayday">
             <h3>{{ p.display_name }}</h3>
             <p>{{ p.bio }}</p>
             <a href="{{ p.webpage }}">More Info</a>
