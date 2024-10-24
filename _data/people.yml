@@ -1,14 +1,15 @@
-
 profx:
     display_name: "五月天  Mayday"
     github: xiaohang007
     role: faculty
-    bio: "中国台湾流行摇滚乐团  Taiwan Pop Rock Band"
+    image: "/img/people/mayday.png"
+    bio: "中国台湾流行摇滚乐团   Taiwan Pop Rock Band"
     webpage: "https://baike.baidu.com/link?url=xKw9m5yJO2LuhUKcbkArqEC6_rtl1siZIrQ-vx4Yof8fZl4hur2QU2GT5QwOMl5GeWFk-s-q7R5yNbCYm98vx3OMrn4JbzEL_v9V0nMDOAa#3-1"
 
 scott:
     display_name: "Scott Summers"
     role: staff
+    image: "/img/people/scott.png"
     bio: aka Cyclops
 
 wolverine:
@@ -25,27 +26,27 @@ wolverine:
 Monster:
     display_name: "怪兽 Monster"
     role: grad
-
+    image: "/img/people/Monster.jpg"
 
 Ashin:
     display_name: "阿信 Ashin"
     role: grad
-
+    image: "/img/people/Ashin.jpg"
 
 Stone:
     display_name: "石头 Stone"
     role: grad
-
+    image: "/img/people/Stone.jpg"
 
 Masa:
     display_name: "玛莎 Masa"
     role: grad
-
+    image: "/img/people/Masa.jpg"
     
 MING:
     display_name: "冠佑 MING"
     role: grad
-
+    image: "/img/people/MING.jpg"
 
 
 
